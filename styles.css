@@ -1,0 +1,71 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Inter", sans-serif;
+	color: black;
+}
+
+main {
+	width: 100%;
+}
+
+h1 {
+	font-size: 2em;
+	color: black;
+}
+
+p {
+	font-size: 1em;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+ul,
+li {
+	list-style: none;
+	font-family: "Inter", sans-serif;
+	color: black;
+}
+
+i {
+	color: black;
+}
+
+.intro {
+	display: block;
+	margin: auto 200px;
+	min-width: 200px;
+}
+
+.intro2 {
+	display: block;
+	margin: auto 50px;
+	min-width: 400px;
+}
+
+.intro3 {
+	display: block;
+	margin: auto 170px;
+	margin-top: 50px;
+	min-width: 300px;
+}
+
+.contact {
+	text-align: center;
+}
+
+.icon-links {
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+}

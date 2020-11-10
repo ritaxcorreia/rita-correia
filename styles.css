@@ -5,12 +5,9 @@
 body {
 	font-family: "Inter", sans-serif;
 	color: black;
-	margin: 10px;
-}
-
-main {
 	width: 100%;
-	height: 100%;
+	margin: 0px;
+	overflow-x: hidden;
 }
 
 h1 {
